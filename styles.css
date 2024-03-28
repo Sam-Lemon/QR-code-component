@@ -1,0 +1,61 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.qr-card {
+    background-color: hsl(0, 0%, 100%);
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    border-radius: 20px;
+
+}
+
+.content {
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+img {
+    width: 275px;
+    height: 275px;
+    border-radius: 10px;
+    display: block;
+    margin-top: 12px;
+}
+
+.text-block {
+    font-family: "Outfit", sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+h3 {
+    color: hsl(217, 45%, 22%);
+    font-weight: 700;
+    text-shadow: .5px .5px;
+}
+
+p {
+    color: hsl(219, 15%, 55%);
+    font-weight: 400;
+    font-size: 15px;
+    
+}
+
+
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; }
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
