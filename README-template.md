@@ -36,7 +36,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - Solution URL:  
 - GitHub Page: https://sam-lemon.github.io/QR-code-component/
-- Live Site URL: https://sam-lemon.github.io/QR-code-component/
+- Live Site URL: [https://sam-lemon.github.io/QR-code-component/](https://sam-lemon.github.io/QR-code-component/)
 
 ## My process
 
